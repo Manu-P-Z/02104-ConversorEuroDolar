@@ -31,5 +31,5 @@ public class Main {
         System.out.printf(Locale.ENGLISH, "%09.5f", 1.09718);
         System.out.println(" Dólares");
     }
-    
+
 }
